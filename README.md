@@ -1,2 +1,2 @@
 # TypeScript
-TypeScript exemplos
+Atividade utilizando TypeScript
